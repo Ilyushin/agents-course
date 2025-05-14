@@ -1,0 +1,16 @@
+huggingface_hub
+langchain_openai
+langchain_core
+langgraph
+langchain_huggingface
+llama-index
+llama-index-vector-stores-chroma
+llama-index-llms-huggingface-api
+llama-index-embeddings-huggingface
+llama-index
+datasets
+llama-index-callbacks-arize-phoenix
+arize-phoenix
+llama-index-embeddings-huggingface
+llama-index-tools-google
+pyvis
